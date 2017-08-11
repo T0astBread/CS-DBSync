@@ -1,0 +1,19 @@
+{
+    "local":
+    {
+        "dbSystem": "MsSQL",
+        "host": "SR038",
+        "port": 1433,
+        "dbName": "Homepage",
+        "username": "sa"
+    },
+    
+    "remote":
+    {
+        "dbSystem": "MySQL",
+        "host": "mysqlsvr39.world4you.com",
+        "port": 3306,
+        "dbName": "2654128db1",
+        "username": "sql3684033"
+    }
+}
